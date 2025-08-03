@@ -39,12 +39,38 @@
 
 - ⚡ Fun fact **I believe in “Learning by Building.” 🚀**
 
+
 <h3 align="left">Connect with me: @Aspirant-ai</h3>
 <p align="left">
 </p>
 
 
 ###
+## 📁 My Projects Overview
+
+Here’s a curated list of my projects — ranging from AI tools, Telegram bots, PDF utilities, to advanced Laravel-based examination systems:
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack | License | Visibility |
+|--------------|-------------|------------|---------|------------|
+| [**Aspirant-ai**](https://github.com/Aspirant-ai/Aspirant-ai) | My public GitHub profile and project showcase | GitHub Profile | Public |
+| **AdvanceOnlineExaminationSystemV2** | Advanced Online Examination System (v2) | JavaScript, Laravel | MIT | 🔒 Private |
+| **github-mcp-server** *(Fork)* | GitHub's official MCP Server | Go | MIT | Public |
+| **QuizSchedule** | Lightweight backend scheduler for quizzes | Python | - | 🔒 Private |
+| **AdvanceOnlineExaminationSystemV1** | Laravel 11-based examination system | JavaScript, Laravel | MIT | 🔒 Private |
+| **MCQgram** | MCQ sharing platform tools | JavaScript | - | 🔒 Private |
+| [**PixelPerfectResizer**](https://github.com/Aspirant-ai/PixelPerfectResizer) | Advanced image resizer with crop, compression, resolution tweaks | JavaScript | MIT | Public |
+| [**PDF-Tools-Hub**](https://github.com/Aspirant-ai/PDF-Tools-Hub) | One-stop solution for all PDF operations (convert, compress, merge) | HTML, Python (PyPDF2, Pillow) | MIT | Public |
+| **happy-birthday** | Simple birthday wish landing page | HTML | - | 🔒 Private |
+| [**aspirant-ai-gemini**](https://github.com/Aspirant-ai/aspirant-ai-gemini) | AI-powered Gemini-based study assistant | HTML | - | Public |
+
+---
+
+> 🛠 **More in progress**: I actively work on educational tools, AI integrations, and scalable backend systems. Stay tuned at [github.com/Aspirant-ai](https://github.com/Aspirant-ai)
+
 
 
 ###
