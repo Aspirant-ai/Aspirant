@@ -1,4 +1,4 @@
-# Aspirant
+# Aspirant-Ai
 
 
 <h1 align="center">Hi 👋, I'm Aspirant-Ai</h1>
