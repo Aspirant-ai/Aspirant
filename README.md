@@ -7,7 +7,6 @@
 
 [![ASPIRANT AI profile views](https://u8views.com/api/v1/github/profiles/155420983/views/day-week-month-total-count.svg)](https://u8views.com/github/Aspirant-ai)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aspirant-ai&label=Profile%20views&color=0e75b6&style=flat" alt="aspirant-ai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspirant-ai" alt="aspirant-ai" /></a> </p>
 
