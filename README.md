@@ -8,9 +8,7 @@
 </p>
 
 
-###
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspirant-ai" alt="aspirant-ai" /></a> </p>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aspirant-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -20,7 +18,11 @@
 
 </div>
 
-###
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspirant-ai" alt="aspirant-ai" /></a> </p>
+
+---
 
 - 🔭 I’m currently working on [Online Examination system](https://github.com/Aspirant-ai)
 
@@ -36,11 +38,10 @@
 
 - ⚡ Fun fact **I believe in “Learning by Building.” 🚀**
 
-
+---
 <h3 align="left">Connect with me: @Aspirant-ai</h3>
 <p align="left">
 </p>
-
 
 ###
 ## 📁 My Projects Overview
@@ -69,7 +70,7 @@ Here’s a curated list of my projects — ranging from AI tools, Telegram bots,
 > 🛠 **More in progress**: I actively work on educational tools, AI integrations, and scalable backend systems. Stay tuned at [github.com/Aspirant-ai](https://github.com/Aspirant-ai)
 
 
-
+---
 ###
 
 <div align="center">
@@ -216,12 +217,12 @@ Here’s a curated list of my projects — ranging from AI tools, Telegram bots,
 </div>
 
 ###
-
+---
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/Aspirant-ai/Aspirant-ai/output/snake.svg)
 
 ###
-
+---
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aspirant_ai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aspirant-ai" /></a><a href="https://ko-fi.com/aspirant_ai"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aspirant-ai" /></a></p><br><br>
