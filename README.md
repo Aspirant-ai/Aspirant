@@ -69,6 +69,11 @@ Here’s a curated list of my projects — ranging from AI tools, Telegram bots,
 
 > 🛠 **More in progress**: I actively work on educational tools, AI integrations, and scalable backend systems. Stay tuned at [github.com/Aspirant-ai](https://github.com/Aspirant-ai)
 
+<p align="center">
+  <a href="https://u8views.com/github/Aspirant-ai">
+    <img src="https://u8views.com/api/v1/github/profiles/155420983/views/day-week-month-total-count.svg" alt="ASPIRANT AI profile views" />
+  </a>
+</p>
 
 ---
 ###
