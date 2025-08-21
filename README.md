@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aspirant-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--img src="https://github-readme-stats.vercel.app/api?username=Aspirant-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aspirant-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspirant-ai&" alt="aspirant-ai" />
@@ -20,7 +20,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspirant-ai" alt="aspirant-ai" /></a> </p>
+<!--p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspirant-ai" alt="aspirant-ai" /></a> </p-->
 
 ---
 
@@ -54,7 +54,7 @@ Here’s a curated list of my projects — ranging from AI tools, Telegram bots,
 
 | Project Name | Description | Tech Stack | License | Visibility |
 |--------------|-------------|------------|---------|------------|
-| [**Aspirant-ai**](https://github.com/Aspirant-ai/Aspirant-ai) | My public GitHub profile and project showcase | GitHub Profile | Public |
+| [**Aspirant-ai**](https://github.com/Aspirant-ai/Aspirant-ai) | My public GitHub profile and project showcase | GitHub Profile |-|Public |
 | **github-mcp-server** *(Fork)* | GitHub's official MCP Server | Go | MIT | Public |
 | **QuizSchedule** | Lightweight backend scheduler for quizzes | Python | - | 🔒 Private |
 | **Quiz** | MCQ Quiz sharing platform tools | JavaScript | - | 🔒 Private |
