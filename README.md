@@ -24,7 +24,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Online Examination system](https://github.com/Aspirant-ai)
+- 🔭 I’m currently working on [Management system](https://github.com/Aspirant-ai)
 
 - 🌱 I’m currently learning **Laravel 11 , Python , react**
 
@@ -55,11 +55,9 @@ Here’s a curated list of my projects — ranging from AI tools, Telegram bots,
 | Project Name | Description | Tech Stack | License | Visibility |
 |--------------|-------------|------------|---------|------------|
 | [**Aspirant-ai**](https://github.com/Aspirant-ai/Aspirant-ai) | My public GitHub profile and project showcase | GitHub Profile | Public |
-| **AdvanceOnlineExaminationSystemV2** | Advanced Online Examination System (v2) | JavaScript, Laravel | MIT | 🔒 Private |
 | **github-mcp-server** *(Fork)* | GitHub's official MCP Server | Go | MIT | Public |
 | **QuizSchedule** | Lightweight backend scheduler for quizzes | Python | - | 🔒 Private |
-| **AdvanceOnlineExaminationSystemV1** | Laravel 11-based examination system | JavaScript, Laravel | MIT | 🔒 Private |
-| **MCQgram** | MCQ sharing platform tools | JavaScript | - | 🔒 Private |
+| **Quiz** | MCQ Quiz sharing platform tools | JavaScript | - | 🔒 Private |
 | [**PixelPerfectResizer**](https://github.com/Aspirant-ai/PixelPerfectResizer) | Advanced image resizer with crop, compression, resolution tweaks | JavaScript | MIT | Public |
 | [**PDF-Tools-Hub**](https://github.com/Aspirant-ai/PDF-Tools-Hub) | One-stop solution for all PDF operations (convert, compress, merge) | HTML, Python (PyPDF2, Pillow) | MIT | Public |
 | **happy-birthday** | Simple birthday wish landing page | HTML | - | 🔒 Private |
